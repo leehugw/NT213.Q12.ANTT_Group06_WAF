@@ -64,7 +64,7 @@ Giải pháp bây giờ là encode để che giấu WAF.
 
 ---
 
-### **Payload cuối cùngbài h**
+### **Payload cuối cùng**
 
 URL tấn công cuối cùng đã được tạo ra bằng cách mã hóa URL payload trên để đảm bảo các ký tự đặc biệt (`&`, `#`, `"`, `'`) được gửi đi một cách chính xác.
 
